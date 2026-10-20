@@ -1,0 +1,18 @@
+{
+  "comentario": "Novidades mostradas no menu do Crown of Aureth (as mais novas primeiro). tipo: atualizacao, aviso ou evento. data: AAAA-MM-DD.",
+  "itens": [
+    {
+      "data": "2026-10-20",
+      "tipo": "atualizacao",
+      "versao": "0.12.0",
+      "titulo": "Menu novo e atualizações mais fáceis",
+      "texto": "Menu com Continuar, 3 espaços de save e Opções (tela cheia, resolução e som).\nAgora as atualizações baixam aqui no menu, com barra de progresso, e instalam sem abrir o instalador."
+    },
+    {
+      "data": "2026-10-20",
+      "tipo": "aviso",
+      "titulo": "Bem-vindo ao Beta fechado!",
+      "texto": "Obrigado por testar Crown of Aureth. Achou algo estranho, difícil demais ou confuso? Use o botão 🐞 Reportar problema e mande pelo WhatsApp."
+    }
+  ]
+}
