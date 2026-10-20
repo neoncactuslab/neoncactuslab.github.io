@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-label="Neon Cactus Interactive">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="b2"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- cacto (saguaro) em tubo de neon verde -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M52 118 V34 a8 8 0 0 1 16 0 V118" stroke="#3dff9a" stroke-width="5"/>
+    <path d="M52 78 H40 a8 8 0 0 1 -8 -8 V52 a6 6 0 0 1 12 0 V66 H52" stroke="#3dff9a" stroke-width="5"/>
+    <path d="M68 90 H80 a8 8 0 0 0 8 -8 V60 a6 6 0 0 0 -12 0 V78 H68" stroke="#3dff9a" stroke-width="5"/>
+    <!-- flor rosa no topo -->
+    <circle cx="60" cy="20" r="5" stroke="#ff4fd8" stroke-width="4"/>
+    <!-- vaso / chão -->
+    <path d="M30 124 H90" stroke="#ff4fd8" stroke-width="5"/>
+  </g>
+  <!-- espinhos -->
+  <g stroke="#b9ffd9" stroke-width="1.6" stroke-linecap="round" opacity=".9">
+    <path d="M60 44 v4 M60 60 v4 M60 96 v4 M38 58 h-3 M82 68 h3"/>
+  </g>
+</svg>
