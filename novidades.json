@@ -4,6 +4,13 @@
     {
       "data": "2026-10-20",
       "tipo": "atualizacao",
+      "versao": "0.13.0",
+      "titulo": "Elfos e orcs com cara nova",
+      "texto": "Todas as tropas de Sylvaren e Gor'Thak ganharam visual próprio, e chegaram o Guardião de Sylvaren, o Caçador Orc, o Brutamontes Orc e o Elfo Corrompido.\nElfos e orcs não lutam mais ao lado dos demônios, e em As Raízes Envenenadas os dois lados também se enfrentam."
+    },
+    {
+      "data": "2026-10-20",
+      "tipo": "atualizacao",
       "versao": "0.12.0",
       "titulo": "Menu novo e atualizações mais fáceis",
       "texto": "Menu com Continuar, 3 espaços de save e Opções (tela cheia, resolução e som).\nAgora as atualizações baixam aqui no menu, com barra de progresso, e instalam sem abrir o instalador."
