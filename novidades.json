@@ -2,6 +2,13 @@
   "comentario": "Novidades mostradas no menu do Crown of Aureth (as mais novas primeiro). tipo: atualizacao, aviso ou evento. data: AAAA-MM-DD.",
   "itens": [
     {
+      "data": "2026-10-21",
+      "tipo": "atualizacao",
+      "versao": "0.14.0",
+      "titulo": "Elmos, luvas e conjuntos",
+      "texto": "Agora cada personagem usa 6 peças: arma, elmo, armadura, luvas, botas e acessório. Conjuntos raros e lendários dão bônus com 2 e 4 peças.\nMercador com categorias, menu de batalha mais curto (Habilidades ▸), magias com nomes em latim e missões de resistência mais claras."
+    },
+    {
       "data": "2026-10-20",
       "tipo": "atualizacao",
       "versao": "0.13.0",
